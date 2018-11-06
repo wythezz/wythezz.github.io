@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on wythezz</title>
+    <link>https://wythezz.github.io/series/</link>
+    <description>Recent content in Series on wythezz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Tue, 06 Nov 2018 15:02:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://wythezz.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example</title>
+      <link>https://wythezz.github.io/series/example/</link>
+      <pubDate>Tue, 06 Nov 2018 15:02:39 +0800</pubDate>
+      
+      <guid>https://wythezz.github.io/series/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

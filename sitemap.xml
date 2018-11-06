@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wythezz.github.io/post/text/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/tags/blog/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/tags/css/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/series/example/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/post/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/categories/sci/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/series/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/tags/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wythezz.github.io/</loc>
+    <lastmod>2018-11-06T15:02:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

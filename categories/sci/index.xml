@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sci on wythezz</title>
+    <link>https://wythezz.github.io/categories/sci/</link>
+    <description>Recent content in Sci on wythezz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Tue, 06 Nov 2018 15:02:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://wythezz.github.io/categories/sci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>text</title>
+      <link>https://wythezz.github.io/post/text/</link>
+      <pubDate>Tue, 06 Nov 2018 15:02:39 +0800</pubDate>
+      
+      <guid>https://wythezz.github.io/post/text/</guid>
+      <description>这是个测试文章，这个是markdown编辑器 所以你需要学markdown语法，这是一个超级简单的语言Markdown 是一种轻量级标记语言，它用简洁的语法代替排版，使我们专心于码字。它的目标是实现易读易写，成为一种适用于网络的书写语言。同时，Markdown支持嵌入html标签。 教程自行百度 所以你需要学markdown语法，这是一个超级简单的语言Markdown 是一种轻量级标记语言，它用简洁的语法代</description>
+    </item>
+    
+  </channel>
+</rss>
