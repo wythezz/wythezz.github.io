@@ -1,2 +1,0 @@
-# wythezz.github.io
-# *-*wythezz*-*
